@@ -2,7 +2,7 @@
 ```
 Extremly fast, block by domain. Updated, 
 
-Its actually just a fork from a 3 years old Extension. T
+Its actually just a fork from a 3 years old Extension. 
 The Filter list is very outdated there, calling home. This Extension doesnt call a single DNS.
 For Firefox:
 about:config
