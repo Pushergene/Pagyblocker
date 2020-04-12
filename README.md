@@ -2,8 +2,8 @@
 ```
 Extremly fast, block by domain. Updated, 
 
-Its actually just a fork from a 3 years old Extension. 
-The Filter list is very outdated there, calling home. This Extension doesnt call a single DNS.
+Its actually just a fork from a 3 years old Extension, which uses outdated Hosts file, calls Home(uninstall redirect)
+This One is completly bloat-free and updated. 
 For Firefox:
 about:config
 then xpinstall.signatures.required false
